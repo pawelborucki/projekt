@@ -1,0 +1,1 @@
+SELECT SUM(zasoby.ilosc) AS 'Suma zasobów' FROM zasoby;
